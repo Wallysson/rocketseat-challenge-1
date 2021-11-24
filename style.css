@@ -3,23 +3,21 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  width: 100%;
-  height: 100%;
+  /* width: 100%;
+  height: 100%; */
 }
 
 body {
   background-color: rgb(161, 161, 161);
-  display: grid;
-  align-content: center;
-  justify-content: center;
   font-family: 'Roboto', sans-serif;
 }
 
 .container {
   background-color: rgb(214, 214, 214);
-  width: 800px;
+  width: 60%;
   border-radius: 40px;
-  display: flex;
+  /* display: flex; */
+  margin: auto;
 }
 
 h1,
@@ -52,6 +50,10 @@ figcaption {
 li {
   font-size: 16px;
   line-height: 26px;
+}
+
+.more-information {
+  padding-bottom: 1px;
 }
 
 p {
