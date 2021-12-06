@@ -16,4 +16,4 @@ First, create a HTML page with tags (h1, p, li, ol, etc) and finish style with C
 ##
 
 ### Deploy
-https://wallysson.github.io/rocketseat-challenge-1/
+https://wallysson.github.io/desafios-html/
